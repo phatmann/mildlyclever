@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Dog food
-date: '2017-01-06T00:00:00+00:00'
-permalink: http://mildlyclever.com/dog-food/
+date: "2017-01-06T00:00:00+00:00"
+permalink: dog-food
 ---
+
 You know you are hungry when dog food smells really good.

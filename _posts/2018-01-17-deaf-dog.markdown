@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Deaf dog
-date: '2018-01-17T00:00:00+00:00'
-permalink: http://mildlyclever.com/deaf-dog/
+date: "2018-01-17T00:00:00+00:00"
+permalink: deaf-dog
 ---
+
 My dog is deaf, but she doesn’t know it. She just thinks everyone has stopped talking to her. That’s sad.

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 80s joke
-date: '2018-01-19T00:00:00+00:00'
-permalink: http://mildlyclever.com/80s-joke/
+date: "2018-01-19T00:00:00+00:00"
+permalink: 80s-joke
 ---
+
 So I was sending a fax while balancing my checkbook, and then I realized ... oh no, I am stuck inside of an 80s joke!

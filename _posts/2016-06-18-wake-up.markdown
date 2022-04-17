@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Watch for predators
-date: '2016-06-18T00:00:00+00:00'
-permalink: http://mildlyclever.com/wake-up/
+date: "2016-06-18T00:00:00+00:00"
+permalink: wake-up
 ---
+
 They say you wake up every 45 minutes to listen for predators. The grandfather clock at my mother's house wakes me every hour. I appreciate the additional opportunity to protect my family.

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The sad truth about cashews
-date: '2016-04-03T00:00:00+00:00'
-permalink: http://mildlyclever.com/cashews/
+date: "2016-04-03T00:00:00+00:00"
+permalink: cashews
 ---
+
 Each cashew comes from a big cashew fruit. So that little bag of cashews is like a potato sack of fruit all plucked down to nothing. That's sad.

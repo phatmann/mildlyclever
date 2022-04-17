@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Can't clap
-date: '2017-02-27T00:00:00+00:00'
-permalink: http://mildlyclever.com/cant-clap/
+date: "2017-02-27T00:00:00+00:00"
+permalink: cant-clap
 ---
+
 Only sober people clap for the band. Everyone else has a drink in their hand.

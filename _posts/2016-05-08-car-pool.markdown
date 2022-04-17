@@ -1,7 +1,8 @@
 ---
 layout: post
 title: People hate car pooling
-date: '2016-05-08T00:00:00+00:00'
-permalink: http://mildlyclever.com/car-pool/
+date: "2016-05-08T00:00:00+00:00"
+permalink: car-pool
 ---
+
 Whenever a group of people needs to get somewhere, no one ever wants to carpool. They say it will be too crowded and uncomfortable. One time I showed up with a school bus, and everyone still wanted to drive their own car.

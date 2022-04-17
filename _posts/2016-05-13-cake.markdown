@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Rich cake
-date: '2016-05-13T00:00:00+00:00'
-permalink: http://mildlyclever.com/cake/
+date: "2016-05-13T00:00:00+00:00"
+permalink: cake
 ---
+
 When someone says a piece of cake is "rich", they know they should eat it slowly and offer you some bites. But really they want to pick the whole thing up and shove it in their face.
