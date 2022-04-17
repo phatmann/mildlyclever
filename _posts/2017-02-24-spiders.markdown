@@ -2,7 +2,7 @@
 layout: post
 title: Spiders
 date: "2017-02-24T00:00:00+00:00"
-permalink: spiders
+permalink: /spiders/
 ---
 
 My house has lots of cobwebs. I used to wonder where all the spiders went. Then I read that people eat hundreds of spiders while they sleep. Mystery solved.

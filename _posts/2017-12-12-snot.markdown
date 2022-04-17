@@ -2,7 +2,7 @@
 layout: post
 title: Snot
 date: "2017-12-12T00:00:00+00:00"
-permalink: snot
+permalink: /snot/
 ---
 
 I deeply appreciate that snot does not stink.

@@ -2,7 +2,7 @@
 layout: post
 title: One day back hair will be cool
 date: "2016-03-29T00:00:00+00:00"
-permalink: back-hair
+permalink: /back-hair/
 ---
 
 I have hair on my back. It’s a pain to shave, so I figure I will just wait until it becomes cool. I’m still waiting.

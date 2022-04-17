@@ -2,7 +2,7 @@
 layout: post
 title: I love scratching bug bites
 date: "2016-05-09T00:00:00+00:00"
-permalink: bug-bites
+permalink: /bug-bites/
 ---
 
 Everyone says you shouldn't scratch your bug bites. But when you sleep, you are sure to scratch them like mad. So I do it during the day so I can enjoy it.

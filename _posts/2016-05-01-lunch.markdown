@@ -2,7 +2,7 @@
 layout: post
 title: Busy hands are happy hands
 date: "2016-05-01T00:00:00+00:00"
-permalink: lunch
+permalink: /lunch/
 ---
 
 In the morning everyone has a cup of coffee in their hand. At night everyone has a wine or a beer in their hand. At lunch, no one knows what to do with their hands. Someone needs to take care of this.

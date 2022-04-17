@@ -2,7 +2,7 @@
 layout: post
 title: 99 cents
 date: "2019-08-26T00:00:00+00:00"
-permalink: 99-cents
+permalink: /99-cents/
 ---
 
 They will be getting rid of the penny soon. The problem is that prices usually end in <em>.99</em>. My daughter came up with the only sensible solution: a 99¢ coin. At least someone is thinking clearly here.
