@@ -1,0 +1,7 @@
+---
+layout: post
+title: The physics of cynics
+date: '2016-03-25T00:00:00+00:00'
+permalink: http://mildlyclever.com/cynics/
+---
+For every answer there is an equal and opposite re-answer. It’s the basic law of cynics.
