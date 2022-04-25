@@ -16,11 +16,11 @@ layout: default
   {%- endif -%}
 
   <div class="page-navigation">
-    {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; Previous</a>
-    {% endif %}
     {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">Next &raquo;</a>
+    <a class="prev" href="{{page.next.url}}">&laquo; Previous</a>
+    {% endif %}
+    {% if page.previous.url %}
+    <a class="next" href="{{page.previous.url}}">Next &raquo;</a>
     {% endif %}
   </div>
 
