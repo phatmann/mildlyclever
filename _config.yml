@@ -20,8 +20,7 @@
 
 title: Mildly Clever
 email: thephatmann@gmail.com
-description: Cleverisms for our time
-# baseurl: "" # the subpath of your site, e.g. /blog
+author: Tony Mann
 url: "http://mildlyclever.com"
 
 # Build settings

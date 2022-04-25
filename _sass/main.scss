@@ -13,7 +13,7 @@ $base-line-height: 1.5 !default;
 $spacing-unit: 30px !default;
 
 $text-color: #111 !default;
-$background-color: #fdfdfd !default;
+$background-color: #d6cca9 !default;
 $brand-color: #2a7ae2 !default;
 
 $grey-color: #828282 !default;
@@ -45,19 +45,9 @@ $on-laptop: 800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+@font-face {
+  font-family: Typewriter;
+  src: url(/assets/MyUnderwood.ttf);
+}
+
 @import "partials/base", "partials/layout", "partials/syntax-highlighting";
-
-.page-navigation {
-  font-size: 14px;
-  display: block;
-  width: auto;
-  overflow: hidden;
-}
-
-.page-navigation .prev {
-  float: left;
-}
-
-.page-navigation .next {
-  float: right;
-}
