@@ -259,6 +259,7 @@
   display: block;
   width: auto;
   overflow: hidden;
+  text-align: center;
 }
 
 .page-navigation .prev {
@@ -269,4 +270,12 @@
 .page-navigation .next {
   float: right;
   color: black;
+}
+
+.page-navigation .random {
+  color: black;
+}
+
+.redirect {
+  @include relative-font-size(1.5);
 }
