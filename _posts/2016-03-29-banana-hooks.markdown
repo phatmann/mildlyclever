@@ -6,3 +6,5 @@ permalink: /banana-hooks/
 ---
 
 You can buy a little hook to hold a bunch of bananas. But it does not work so well when you have one banana. It’s a design flaw. You need to eat the last two in one go.
+
+![Banana hook](/assets/img/banana-hook.jpeg)
