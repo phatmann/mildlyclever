@@ -1,0 +1,610 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Mildly Clever",
+	"icon": "https://micro.blog/phatmann/avatar.jpg",
+	"home_page_url": "https://mildlyclever.com/",
+	"feed_url": "https://mildlyclever.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://phatmann.micro.blog/2025/08/10/please-dessert-me.html",
+				"title": "Please dessert me",
+				"content_html": "<p>It was raining hard and I got a sudden craving for dessert wine. I didn’t care what kind, because I am fine with any Port in a storm.</p>\n",
+				"content_text": "It was raining hard and I got a sudden craving for dessert wine. I didn’t care what kind, because I am fine with any Port in a storm. \n\n",
+				"date_published": "2025-08-10T04:53:33-08:00",
+				"url": "https://mildlyclever.com/2025/08/10/please-dessert-me.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2025/01/07/brrrrthday.html",
+				"title": "Brrrrthday",
+				"content_html": "<p>My friend told me she got a very cold reception on her birthday. I felt so bad that people were not nice to her on this special day. Then I realized she meant that the heat had stopped working.</p>\n",
+				"content_text": "My friend told me she got a very cold reception on her birthday. I felt so bad that people were not nice to her on this special day. Then I realized she meant that the heat had stopped working.\n\n",
+				"date_published": "2025-01-07T11:04:47-08:00",
+				"url": "https://mildlyclever.com/2025/01/07/brrrrthday.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2020/01/06/sad-laundry.html",
+				"title": "Sad laundry",
+				"content_html": "<p>Putting away laundry is depressing, so I only do it when I am already sad. I tend to be a happy person, so I end up with neglected piles of clothes strewn all about. That puts me in a bad mood. Problem solved!</p>\n",
+				"content_text": "Putting away laundry is depressing, so I only do it when I am already sad. I tend to be a happy person, so I end up with neglected piles of clothes strewn all about. That puts me in a bad mood. Problem solved!\n\n",
+				"date_published": "2020-01-06T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2020/01/06/sad-laundry.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2019/08/26/cents.html",
+				"title": "99 cents",
+				"content_html": "<p>They will be getting rid of the penny soon. The problem is that prices usually end in .99. My daughter came up with the only sensible solution: a 99¢ coin. At least someone is thinking clearly here.</p>\n",
+				"content_text": "They will be getting rid of the penny soon. The problem is that prices usually end in .99. My daughter came up with the only sensible solution: a 99¢ coin. At least someone is thinking clearly here.\n\n",
+				"date_published": "2019-08-26T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2019/08/26/cents.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2019/05/27/baby-teeth.html",
+				"title": "Baby teeth",
+				"content_html": "<p>Whenever I lost a baby tooth, my mother would put it into a little container. We saved all the containers in a small box. Years later, after several house moves, I realized that the box was gone. Now, I figure that anyone who sees what’s inside the box could never get themselves to throw it away, so it must be out there somewhere. That’s creepy. Sometimes I can’t sleep just thinking about it.</p>\n",
+				"content_text": "Whenever I lost a baby tooth, my mother would put it into a little container. We saved all the containers in a small box. Years later, after several house moves, I realized that the box was gone. Now, I figure that anyone who sees what’s inside the box could never get themselves to throw it away, so it must be out there somewhere. That’s creepy. Sometimes I can’t sleep just thinking about it.\n\n",
+				"date_published": "2019-05-27T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2019/05/27/baby-teeth.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2019/05/15/fluffy-yoga-mats.html",
+				"title": "Fluffy yoga mats",
+				"content_html": "<p>I just found out that Subway was fluffing their bread with the same chemical that is used in yoga mats. That&rsquo;s so gross. I went right home and threw away all my mats. Phew!</p>\n",
+				"content_text": "I just found out that Subway was fluffing their bread with the same chemical that is used in yoga mats. That's so gross. I went right home and threw away all my mats. Phew!\n\n",
+				"date_published": "2019-05-15T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2019/05/15/fluffy-yoga-mats.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2019/04/18/ice-cream.html",
+				"title": "Ice cream",
+				"content_html": "<p>You can&rsquo;t have everything, but you can buy ice cream whenever you want. That&rsquo;s good.</p>\n",
+				"content_text": "You can't have everything, but you can buy ice cream whenever you want. That's good.\n\n",
+				"date_published": "2019-04-18T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2019/04/18/ice-cream.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2019/01/23/alternately-resealable.html",
+				"title": "Alternately resealable",
+				"content_html": "<p>I am sure there is an alternative universe where the resealable tape on bags of coffee actually sticks.</p>\n",
+				"content_text": "I am sure there is an alternative universe where the resealable tape on bags of coffee actually sticks.\n\n",
+				"date_published": "2019-01-23T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2019/01/23/alternately-resealable.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2018/05/06/billy-joel-inevitable.html",
+				"title": "Billy Joel inevitable",
+				"content_html": "<p>It is an inevitable law of the universe that every Pandora station will eventually play a Billy Joel song.</p>\n",
+				"content_text": "It is an inevitable law of the universe that every Pandora station will eventually play a Billy Joel song.\n\n",
+				"date_published": "2018-05-06T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2018/05/06/billy-joel-inevitable.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2018/02/24/blurred-mind.html",
+				"title": "Blurred mind",
+				"content_html": "<p>My mind started wandering while reading a book about how to stay focused. That&rsquo;s sad.</p>\n",
+				"content_text": "My mind started wandering while reading a book about how to stay focused. That's sad.\n\n",
+				"date_published": "2018-02-24T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2018/02/24/blurred-mind.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2018/02/09/be-the-language-change.html",
+				"title": "Be the language change",
+				"content_html": "<p>My kid says &ldquo;slowly by slowly&rdquo; instead of &ldquo;little by little&rdquo;. I tried correcting her, but that did not work. So I started saying &ldquo;slowly by slowly&rdquo;, too. I figure if I keep it up, the language will change, and she won&rsquo;t have to do anything.</p>\n",
+				"content_text": "My kid says \"slowly by slowly\" instead of \"little by little\". I tried correcting her, but that did not work. So I started saying \"slowly by slowly\", too. I figure if I keep it up, the language will change, and she won't have to do anything.\n\n",
+				"date_published": "2018-02-09T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2018/02/09/be-the-language-change.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2018/02/04/lost-day.html",
+				"title": "Lost day",
+				"content_html": "<p>I flew to Hong Kong and I lost a day. That made me sad. I often wonder what that day would have been like.</p>\n",
+				"content_text": "I flew to Hong Kong and I lost a day. That made me sad. I often wonder what that day would have been like.\n\n",
+				"date_published": "2018-02-04T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2018/02/04/lost-day.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2018/01/27/brain-strain.html",
+				"title": "Brain strain",
+				"content_html": "<p>We had a container in the kitchen filled with cookies. When I opened it up today it was filled with pizza instead. I got excited and disappointed at the same time. I am pretty sure I pulled a muscle in my brain.</p>\n",
+				"content_text": "We had a container in the kitchen filled with cookies. When I opened it up today it was filled with pizza instead. I got excited and disappointed at the same time. I am pretty sure I pulled a muscle in my brain.\n\n",
+				"date_published": "2018-01-27T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2018/01/27/brain-strain.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2018/01/25/house-elf.html",
+				"title": "House elf",
+				"content_html": "<p>I do not believe in Santa Claus or the Easter Bunny, but I am sure there is a House Elf. He scrubs the green slime off your deck and cleans the leaves from your gutters. He has not come yet, but I&rsquo;ll keep waiting.</p>\n",
+				"content_text": "I do not believe in Santa Claus or the Easter Bunny, but I am sure there is a House Elf. He scrubs the green slime off your deck and cleans the leaves from your gutters. He has not come yet, but I'll keep waiting.\n\n",
+				"date_published": "2018-01-25T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2018/01/25/house-elf.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2018/01/19/s-joke.html",
+				"title": "80s joke",
+				"content_html": "<p>So I was sending a fax while balancing my checkbook, and then I realized &hellip; oh no, I am stuck inside of an 80s joke!</p>\n",
+				"content_text": "So I was sending a fax while balancing my checkbook, and then I realized ... oh no, I am stuck inside of an 80s joke!\n\n",
+				"date_published": "2018-01-19T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2018/01/19/s-joke.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2018/01/17/deaf-dog.html",
+				"title": "Deaf dog",
+				"content_html": "<p>My dog is deaf, but she doesn’t know it. She just thinks everyone has stopped talking to her. That’s sad.</p>\n",
+				"content_text": "My dog is deaf, but she doesn’t know it. She just thinks everyone has stopped talking to her. That’s sad.\n\n",
+				"date_published": "2018-01-17T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2018/01/17/deaf-dog.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2018/01/14/efficiency.html",
+				"title": "Efficiency",
+				"content_html": "<p>Drying dishes is silly. They dry themselves if you wait long enough. I am all about efficiency. I don&rsquo;t move the fan out of the bedroom, because eventually it will be summer again.</p>\n",
+				"content_text": "Drying dishes is silly. They dry themselves if you wait long enough. I am all about efficiency. I don't move the fan out of the bedroom, because eventually it will be summer again.\n\n",
+				"date_published": "2018-01-14T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2018/01/14/efficiency.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2018/01/07/gift-bags.html",
+				"title": "Gift bags",
+				"content_html": "<p>I would like to shake the hand of the person who invented the gift bag. They really hated wrapping presents. I usually just put a rock in one and pretend its a paperweight.</p>\n",
+				"content_text": "I would like to shake the hand of the person who invented the gift bag. They really hated wrapping presents. I usually just put a rock in one and pretend its a paperweight.\n\n",
+				"date_published": "2018-01-07T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2018/01/07/gift-bags.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/12/12/snot.html",
+				"title": "Snot",
+				"content_html": "<p>I deeply appreciate that snot does not stink.</p>\n",
+				"content_text": "I deeply appreciate that snot does not stink.\n\n",
+				"date_published": "2017-12-12T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/12/12/snot.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/11/28/cats-and-the-cradle.html",
+				"title": "Cats and the cradle",
+				"content_html": "<p>I was at the supermarket and I heard a really bad version of &ldquo;Cats and The Cradle&rdquo;. Then I realized it was the original version.</p>\n",
+				"content_text": "I was at the supermarket and I heard a really bad version of \"Cats and The Cradle\". Then I realized it was the original version.\n\n",
+				"date_published": "2017-11-28T16:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/11/28/cats-and-the-cradle.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/10/14/wrong-bathroom.html",
+				"title": "Wrong bathroom",
+				"content_html": "<p>Sometimes when I’m sitting in the bathroom stall I wonder if I went to the woman’s room by mistake. I listen to voices and look at shoes, but it’s often hard to tell. I have no choice but to make a plan about what to do when I come out and women start screaming. It’s never happened, but it’s good to know I’m ready.</p>\n",
+				"content_text": "Sometimes when I’m sitting in the bathroom stall I wonder if I went to the woman’s room by mistake. I listen to voices and look at shoes, but it’s often hard to tell. I have no choice but to make a plan about what to do when I come out and women start screaming. It’s never happened, but it’s good to know I’m ready.\n\n",
+				"date_published": "2017-10-14T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/10/14/wrong-bathroom.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/10/08/less-is-more.html",
+				"title": "Less is more",
+				"content_html": "<p>There is a saying amongst musicians: <em>Less is more</em>. I figure if I don&rsquo;t play at all, I am maximizing my contribution to the band. I often leave the stage and get a beer as part of my strong work ethic.</p>\n",
+				"content_text": "There is a saying amongst musicians: _Less is more_. I figure if I don't play at all, I am maximizing my contribution to the band. I often leave the stage and get a beer as part of my strong work ethic.\n\n",
+				"date_published": "2017-10-08T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/10/08/less-is-more.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/09/04/bubbly-champagne.html",
+				"title": "Bubbly champagne",
+				"content_html": "<p>Two-day old champagne is still bubbly. Coke gets flat as a morning pond in about 10 minutes. Somebody needs to solve this mystery.</p>\n",
+				"content_text": "Two-day old champagne is still bubbly. Coke gets flat as a morning pond in about 10 minutes. Somebody needs to solve this mystery.\n\n",
+				"date_published": "2017-09-04T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/09/04/bubbly-champagne.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/08/10/distant-jokes.html",
+				"title": "Distant jokes",
+				"content_html": "<p>Sometimes when I am in restaurant, I overhear a conversation. Every once in a while the whole table starts laughing, but I heard nothing remotely funny. I guess jokes only work if you are 2 feet away.</p>\n",
+				"content_text": "Sometimes when I am in restaurant, I overhear a conversation. Every once in a while the whole table starts laughing, but I heard nothing remotely funny. I guess jokes only work if you are 2 feet away.\n\n",
+				"date_published": "2017-08-10T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/08/10/distant-jokes.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/07/27/back-brushes.html",
+				"title": "Back brushes",
+				"content_html": "<p>We have two back brushes. The one in the guest bathroom is glorious, with bristles hard enough to rip your skin off. The one in our bathroom, on the other hand, is so soft you could polish silver with it. Sadly I only think about switching them when I am in the shower. A whole year later the back brush in the guest bathroom finally made the 50-ft journey to our bathroom. That is 0.000001 miles per hour.</p>\n",
+				"content_text": "We have two back brushes. The one in the guest bathroom is glorious, with bristles hard enough to rip your skin off. The one in our bathroom, on the other hand, is so soft you could polish silver with it. Sadly I only think about switching them when I am in the shower. A whole year later the back brush in the guest bathroom finally made the 50-ft journey to our bathroom. That is 0.000001 miles per hour.\n\n",
+				"date_published": "2017-07-27T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/07/27/back-brushes.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/06/21/war-and-zzzs.html",
+				"title": "War and zzzs",
+				"content_html": "<p>My kid eats breakfast so slowly that I read half of <em>War and Peace</em> before she finished. I read the other half while she put her shoes on.</p>\n",
+				"content_text": "My kid eats breakfast so slowly that I read half of _War and Peace_ before she finished. I read the other half while she put her shoes on.\n\n",
+				"date_published": "2017-06-21T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/06/21/war-and-zzzs.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/06/15/dishwasher-etiquette.html",
+				"title": "Dishwasher etiquette",
+				"content_html": "<p>After eating dinner at a friend&rsquo;s house, I used to put my plates in their dishwasher. Then I noticed thay they would sneak into the kitchen afterward and rearrange what I did. So now I put my dishes in the sink so they don&rsquo;t get annoyed. If you see me putting dishes in your dishwasher, it means I don&rsquo;t like you.</p>\n",
+				"content_text": "After eating dinner at a friend's house, I used to put my plates in their dishwasher. Then I noticed thay they would sneak into the kitchen afterward and rearrange what I did. So now I put my dishes in the sink so they don't get annoyed. If you see me putting dishes in your dishwasher, it means I don't like you.\n\n",
+				"date_published": "2017-06-15T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/06/15/dishwasher-etiquette.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/06/07/forever-dirty-dish.html",
+				"title": "Forever dirty dish",
+				"content_html": "<p>If I pull a plate or spoon out of the dishwasher that is dirty, I put it back again. It usually doesn&rsquo;t get clean the next time either, but I keep trying. There is a spoon that has been in there since 2012. I know the chunk of food on it so well I gave it a name. I am sure it will come off the next time.</p>\n",
+				"content_text": "If I pull a plate or spoon out of the dishwasher that is dirty, I put it back again. It usually doesn't get clean the next time either, but I keep trying. There is a spoon that has been in there since 2012. I know the chunk of food on it so well I gave it a name. I am sure it will come off the next time.\n\n",
+				"date_published": "2017-06-07T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/06/07/forever-dirty-dish.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/06/02/slow-and-late.html",
+				"title": "Slow and late",
+				"content_html": "<p>When I am running late, I drive at the speed limit because I don&rsquo;t have time to get pulled over. When I have no schedule, I zoom along. It&rsquo;s sad.</p>\n",
+				"content_text": "When I am running late, I drive at the speed limit because I don't have time to get pulled over. When I have no schedule, I zoom along. It's sad.\n\n",
+				"date_published": "2017-06-02T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/06/02/slow-and-late.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/05/11/ultrasonic.html",
+				"title": "Ultrasonic",
+				"content_html": "<p>I got my teeth cleaned today. They told me the tools were ultrasonic, but I could hear them. Either they are lying or I have super-bat-ears.</p>\n",
+				"content_text": "I got my teeth cleaned today. They told me the tools were ultrasonic, but I could hear them. Either they are lying or I have super-bat-ears.\n\n",
+				"date_published": "2017-05-11T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/05/11/ultrasonic.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/04/28/kefir.html",
+				"title": "Kefir",
+				"content_html": "<p>Kefir is a thinner, lamer version of yogurt. They are going the wrong way with this. What&rsquo;s next, yogurt water?</p>\n",
+				"content_text": "Kefir is a thinner, lamer version of yogurt. They are going the wrong way with this. What's next, yogurt water?\n\n",
+				"date_published": "2017-04-28T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/04/28/kefir.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/04/16/no-oasis.html",
+				"title": "No oasis",
+				"content_html": "<p>God put me here to turn off &ldquo;Wonderwall&rdquo; whenever I hear it.</p>\n",
+				"content_text": "God put me here to turn off \"Wonderwall\" whenever I hear it.\n\n",
+				"date_published": "2017-04-16T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/04/16/no-oasis.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/04/13/pine-cone-harmonica.html",
+				"title": "Pine cone harmonica",
+				"content_html": "<p>If you give me the top of an acorn, I can make an incredibly loud whistle from it. And that&rsquo;s cool. But what I really want to do is learn how to play a pinecone like a harmonica.</p>\n",
+				"content_text": "If you give me the top of an acorn, I can make an incredibly loud whistle from it. And that's cool. But what I really want to do is learn how to play a pinecone like a harmonica.\n\n",
+				"date_published": "2017-04-13T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/04/13/pine-cone-harmonica.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/04/05/pizza-salad.html",
+				"title": "Pizza salad",
+				"content_html": "<p>Salad at a pizza place: a pile of old lettuce with all their pizza toppings dumped on it. I guess they hope you won&rsquo;t notice. But the shredded mozzarella and bland sliced olives are a pretty good clue.</p>\n",
+				"content_text": "Salad at a pizza place: a pile of old lettuce with all their pizza toppings dumped on it. I guess they hope you won't notice. But the shredded mozzarella and bland sliced olives are a pretty good clue.\n\n",
+				"date_published": "2017-04-05T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/04/05/pizza-salad.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/03/28/bamboo-tissues.html",
+				"title": "Bamboo tissues",
+				"content_html": "<p>My wife brought home some tissues made from bamboo. Imagine rubbing a rough bamboo stick under your nose. That is what using these tissues feels like. Not sure who thought this was a good idea. Probably someone who never has a runny nose.</p>\n",
+				"content_text": "My wife brought home some tissues made from bamboo. Imagine rubbing a rough bamboo stick under your nose. That is what using these tissues feels like. Not sure who thought this was a good idea. Probably someone who never has a runny nose.\n\n",
+				"date_published": "2017-03-28T14:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/03/28/bamboo-tissues.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/03/13/springsteen-dylan-me.html",
+				"title": "Springsteen -\u003e Dylan -\u003e Me",
+				"content_html": "<p>Many people say I look like Bob Dylan. Other folks say I look like Bruce Springsteen. But no one says that Bob Dylan looks like Bruce Springsteen. What&rsquo;s up with that?</p>\n",
+				"content_text": "Many people say I look like Bob Dylan. Other folks say I look like Bruce Springsteen. But no one says that Bob Dylan looks like Bruce Springsteen. What's up with that?\n\n",
+				"date_published": "2017-03-13T14:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/03/13/springsteen-dylan-me.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/02/27/cant-clap.html",
+				"title": "Can't clap",
+				"content_html": "<p>Only sober people clap for the band. Everyone else has a drink in their hand.</p>\n",
+				"content_text": "Only sober people clap for the band. Everyone else has a drink in their hand.\n\n",
+				"date_published": "2017-02-27T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/02/27/cant-clap.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/02/24/spiders.html",
+				"title": "Spiders",
+				"content_html": "<p>My house has lots of cobwebs. I used to wonder where all the spiders went. Then I read that people eat hundreds of spiders while they sleep. Mystery solved.</p>\n",
+				"content_text": "My house has lots of cobwebs. I used to wonder where all the spiders went. Then I read that people eat hundreds of spiders while they sleep. Mystery solved.\n\n",
+				"date_published": "2017-02-24T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/02/24/spiders.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/02/13/music-empty-spots.html",
+				"title": "Music empty spots",
+				"content_html": "<p>Whenever I listen to the radio I notice that the singers keep leaving empty spots where a swear word would fit perfectly. Someone needs to let them know.</p>\n",
+				"content_text": "Whenever I listen to the radio I notice that the singers keep leaving empty spots where a swear word would fit perfectly. Someone needs to let them know.\n\n",
+				"date_published": "2017-02-13T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/02/13/music-empty-spots.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/01/31/glutenfree-heel.html",
+				"title": "Gluten-free heel",
+				"content_html": "<p>I doubt anything is less appealing than the heel from a gluten-free bread loaf.</p>\n",
+				"content_text": "I doubt anything is less appealing than the heel from a gluten-free bread loaf.\n\n",
+				"date_published": "2017-01-31T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/01/31/glutenfree-heel.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/01/10/robe-jogging.html",
+				"title": "Robe jogging",
+				"content_html": "<p>If you go jogging in your robe, everyone assumes your house is on fire.</p>\n",
+				"content_text": "If you go jogging in your robe, everyone assumes your house is on fire.\n\n",
+				"date_published": "2017-01-10T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/01/10/robe-jogging.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2017/01/06/dog-food.html",
+				"title": "Dog food",
+				"content_html": "<p>You know you are hungry when dog food smells really good.</p>\n",
+				"content_text": "You know you are hungry when dog food smells really good.\n\n",
+				"date_published": "2017-01-06T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2017/01/06/dog-food.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/12/12/puget-tree.html",
+				"title": "Puget tree",
+				"content_html": "<p>If a Puget tree falls in the ocean, does it make a Sound?</p>\n",
+				"content_text": "If a Puget tree falls in the ocean, does it make a Sound?\n\n",
+				"date_published": "2016-12-12T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/12/12/puget-tree.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/11/27/sock-confusion.html",
+				"title": "Sock confusion",
+				"content_html": "<p>My 4-year old has socks that are really long, and my wife has socks that are really short. It was very confusing. I started throwing random pairs into each of their drawers, and no one noticed. If either of them buy medium socks, I am screwed.</p>\n",
+				"content_text": "My 4-year old has socks that are really long, and my wife has socks that are really short. It was very confusing. I started throwing random pairs into each of their drawers, and no one noticed. If either of them buy medium socks, I am screwed.\n\n",
+				"date_published": "2016-11-27T15:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/11/27/sock-confusion.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/11/02/muffin-roller-coaster.html",
+				"title": "Muffin roller coaster",
+				"content_html": "<p>Eating a muffin is an emotional roller coaster: the ecstasy of each chocolate chip, the misery of every soggy walnut.</p>\n",
+				"content_text": "Eating a muffin is an emotional roller coaster: the ecstasy of each chocolate chip, the misery of every soggy walnut.\n\n",
+				"date_published": "2016-11-02T14:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/11/02/muffin-roller-coaster.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/10/31/dont-learn-from-mistakes.html",
+				"title": "Don't learn from mistakes",
+				"content_html": "<p>The only thing I have learned from my mistakes is that I will make the exact same ones over and over again. Once you know this, you can relax and enjoy it.</p>\n",
+				"content_text": "The only thing I have learned from my mistakes is that I will make the exact same ones over and over again. Once you know this, you can relax and enjoy it.\n\n",
+				"date_published": "2016-10-31T14:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/10/31/dont-learn-from-mistakes.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/10/15/the-odd-thing-about-odds.html",
+				"title": "The odd thing about odds",
+				"content_html": "<p>I have noticed that when people say the odds of something are less than 50/50, it usually doesn&rsquo;t happen.</p>\n",
+				"content_text": "I have noticed that when people say the odds of something are less than 50/50, it usually doesn't happen.\n\n",
+				"date_published": "2016-10-15T14:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/10/15/the-odd-thing-about-odds.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/10/12/water-bowl-antics.html",
+				"title": "Water bowl antics",
+				"content_html": "<p>Sometimes you need to carry a bowl of water somewhere. With every step you take the water starts menacingly rocking and moving. Soon it is sloshing over the sides and soaking you. I usually just spill it on purpose to get it over with.</p>\n",
+				"content_text": "Sometimes you need to carry a bowl of water somewhere. With every step you take the water starts menacingly rocking and moving. Soon it is sloshing over the sides and soaking you. I usually just spill it on purpose to get it over with.\n\n",
+				"date_published": "2016-10-12T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/10/12/water-bowl-antics.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/09/24/storing-fireworks.html",
+				"title": "Storing fireworks",
+				"content_html": "<p>It is probably a bad idea to store your fireworks behind the wood stove.</p>\n",
+				"content_text": "It is probably a bad idea to store your fireworks behind the wood stove.\n\n",
+				"date_published": "2016-09-24T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/09/24/storing-fireworks.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/09/22/selfhelp-books.html",
+				"title": "Self-help books",
+				"content_html": "<p>Most self-help books have one great idea that you could explain in a couple of sentences, but they add lots of other stuff to fill it up. It&rsquo;s silly. Instead they should make self-help index cards. Bookstores would be a lot smaller.</p>\n",
+				"content_text": "Most self-help books have one great idea that you could explain in a couple of sentences, but they add lots of other stuff to fill it up. It's silly. Instead they should make self-help index cards. Bookstores would be a lot smaller.\n\n",
+				"date_published": "2016-09-22T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/09/22/selfhelp-books.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/09/04/peanutbutter-fish.html",
+				"title": "Peanut-butter fish",
+				"content_html": "<p>All jellyfish are lonely, because there are no peanut-butter fish.</p>\n",
+				"content_text": "All jellyfish are lonely, because there are no peanut-butter fish.\n\n",
+				"date_published": "2016-09-04T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/09/04/peanutbutter-fish.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/08/31/garage-on-fire.html",
+				"title": "Garage on fire",
+				"content_html": "<p>When someone says out loud that they will do something, it means they never will. That is why &ldquo;I will clean the garage&rdquo; is the most common refrain in America. I often say &ldquo;I will burn the house down&rdquo; just to make sure I never do it.</p>\n",
+				"content_text": "When someone says out loud that they will do something, it means they never will. That is why \"I will clean the garage\" is the most common refrain in America. I often say \"I will burn the house down\" just to make sure I never do it.\n\n",
+				"date_published": "2016-08-31T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/08/31/garage-on-fire.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/08/30/people-wrap.html",
+				"title": "People wrap",
+				"content_html": "<p>People like to wrap things around themselves. They wrap belts around their waist. They wrap watches around their wrist. And men even wrap their neck with a tie. But no one wraps their legs. Except with a tourniquet.</p>\n",
+				"content_text": "People like to wrap things around themselves. They wrap belts around their waist. They wrap watches around their wrist. And men even wrap their neck with a tie. But no one wraps their legs. Except with a tourniquet.\n\n",
+				"date_published": "2016-08-30T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/08/30/people-wrap.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/08/29/pet-rat-friendly.html",
+				"title": "Pet rat friendly",
+				"content_html": "<p>I was walking down the street the other night, and I saw a rat inside a store, looking through the glass door. There was a sign that said &ldquo;We are pet friendly&rdquo;. I was impressed with how seriously they took this policy.</p>\n",
+				"content_text": "I was walking down the street the other night, and I saw a rat inside a store, looking through the glass door. There was a sign that said \"We are pet friendly\". I was impressed with how seriously they took this policy.\n\n",
+				"date_published": "2016-08-29T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/08/29/pet-rat-friendly.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/07/04/limeade.html",
+				"title": "Limeade",
+				"content_html": "<p>Lemonade is delicious. It is fun to say. Everybody loves lemonade. But nobody loves limeade. It tastes terrible and is no fun at all to say. So who thought this was a good idea?</p>\n",
+				"content_text": "Lemonade is delicious. It is fun to say. Everybody loves lemonade. But nobody loves limeade. It tastes terrible and is no fun at all to say. So who thought this was a good idea?\n\n",
+				"date_published": "2016-07-04T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/07/04/limeade.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/06/18/watch-for-predators.html",
+				"title": "Watch for predators",
+				"content_html": "<p>They say you wake up every 45 minutes to listen for predators. The grandfather clock at my mother&rsquo;s house wakes me every hour. I appreciate the additional opportunity to protect my family.</p>\n",
+				"content_text": "They say you wake up every 45 minutes to listen for predators. The grandfather clock at my mother's house wakes me every hour. I appreciate the additional opportunity to protect my family.\n\n",
+				"date_published": "2016-06-18T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/06/18/watch-for-predators.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/05/23/my-mother-taught-me-wrong.html",
+				"title": "My mother taught me wrong",
+				"content_html": "<p>When I was little, my mother taught me to tie my shoes wrong, with two little bows. When I was older, she taught me to slice food away from my hand, but all the cool people do it the other way. I am starting to wonder what other bad information she gave me.</p>\n",
+				"content_text": "When I was little, my mother taught me to tie my shoes wrong, with two little bows. When I was older, she taught me to slice food away from my hand, but all the cool people do it the other way. I am starting to wonder what other bad information she gave me.\n\n",
+				"date_published": "2016-05-23T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/05/23/my-mother-taught-me-wrong.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/05/13/rich-cake.html",
+				"title": "Rich cake",
+				"content_html": "<p>When someone says a piece of cake is &ldquo;rich&rdquo;, they know they should eat it slowly and offer you some bites. But really they want to pick the whole thing up and shove it in their face.</p>\n",
+				"content_text": "When someone says a piece of cake is \"rich\", they know they should eat it slowly and offer you some bites. But really they want to pick the whole thing up and shove it in their face.\n\n",
+				"date_published": "2016-05-13T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/05/13/rich-cake.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/05/09/i-love-scratching-bug-bites.html",
+				"title": "I love scratching bug bites",
+				"content_html": "<p>Everyone says you shouldn&rsquo;t scratch your bug bites. But when you sleep, you are sure to scratch them like mad. So I do it during the day so I can enjoy it.</p>\n",
+				"content_text": "Everyone says you shouldn't scratch your bug bites. But when you sleep, you are sure to scratch them like mad. So I do it during the day so I can enjoy it.\n\n",
+				"date_published": "2016-05-09T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/05/09/i-love-scratching-bug-bites.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/05/08/people-hate-car-pooling.html",
+				"title": "People hate car pooling",
+				"content_html": "<p>Whenever a group of people needs to get somewhere, no one ever wants to carpool. They say it will be too crowded and uncomfortable. One time I showed up with a school bus, and everyone still wanted to drive their own car.</p>\n",
+				"content_text": "Whenever a group of people needs to get somewhere, no one ever wants to carpool. They say it will be too crowded and uncomfortable. One time I showed up with a school bus, and everyone still wanted to drive their own car.\n\n",
+				"date_published": "2016-05-08T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/05/08/people-hate-car-pooling.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/05/01/busy-hands-are-happy-hands.html",
+				"title": "Busy hands are happy hands",
+				"content_html": "<p>In the morning everyone has a cup of coffee in their hand. At night everyone has a wine or a beer in their hand. At lunch, no one knows what to do with their hands. Someone needs to take care of this.</p>\n",
+				"content_text": "In the morning everyone has a cup of coffee in their hand. At night everyone has a wine or a beer in their hand. At lunch, no one knows what to do with their hands. Someone needs to take care of this.\n\n",
+				"date_published": "2016-05-01T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/05/01/busy-hands-are-happy-hands.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/04/25/scraping-dead-skin.html",
+				"title": "Scraping dead skin",
+				"content_html": "<p>Everyone loves scraping off dead skin. It is the only time you can be sure that you are accomplishing something meaningful.</p>\n",
+				"content_text": "Everyone loves scraping off dead skin. It is the only time you can be sure that you are accomplishing something meaningful.\n\n",
+				"date_published": "2016-04-25T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/04/25/scraping-dead-skin.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/04/07/how-people-tell-me-they.html",
+				"title": "How people tell me they are bored",
+				"content_html": "<p>Sometimes when I am talking, people pull out their cell phones and start looking at stuff. I guess what I am saying is not very interesting. It is nice of them to let me know.</p>\n",
+				"content_text": "Sometimes when I am talking, people pull out their cell phones and start looking at stuff. I guess what I am saying is not very interesting. It is nice of them to let me know.\n\n",
+				"date_published": "2016-04-07T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/04/07/how-people-tell-me-they.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/04/05/baseball-caps.html",
+				"title": "Baseball caps",
+				"content_html": "<p>Most people wearing baseball caps are not playing baseball, and almost no one in tennis shoes is playing tennis. And everyone wearing loafers seems pretty motivated.</p>\n",
+				"content_text": "Most people wearing baseball caps are not playing baseball, and almost no one in tennis shoes is playing tennis. And everyone wearing loafers seems pretty motivated.\n\n",
+				"date_published": "2016-04-05T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/04/05/baseball-caps.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/04/05/empty-the-tank.html",
+				"title": "Empty the tank",
+				"content_html": "<p>When you rent a car you have the option of paying for a whole tank of gas. But, there’s a catch: you have to bring it back empty. That’s why you see so many people pushing their cars into the lot. And if you let go, the spiky things pop the tires.</p>\n",
+				"content_text": "When you rent a car you have the option of paying for a whole tank of gas. But, there’s a catch: you have to bring it back empty. That’s why you see so many people pushing their cars into the lot. And if you let go, the spiky things pop the tires.\n\n",
+				"date_published": "2016-04-05T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/04/05/empty-the-tank.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/04/03/wet-socks.html",
+				"title": "Wet socks",
+				"content_html": "<p>After I put on a pair of socks, I walk around the house in fear of getting them wet. I tiptoe through the kitchen and bathroom, hoping to float over the puddles. One drop, and my day is ruined.</p>\n",
+				"content_text": "After I put on a pair of socks, I walk around the house in fear of getting them wet. I tiptoe through the kitchen and bathroom, hoping to float over the puddles. One drop, and my day is ruined.\n\n",
+				"date_published": "2016-04-03T13:10:00-08:00",
+				"url": "https://mildlyclever.com/2016/04/03/wet-socks.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/04/03/the-sad-truth-about-cashews.html",
+				"title": "The sad truth about cashews",
+				"content_html": "<p>Each cashew comes from a big cashew fruit. So that little bag of cashews is like a potato sack of fruit all plucked down to nothing. That&rsquo;s sad.</p>\n",
+				"content_text": "Each cashew comes from a big cashew fruit. So that little bag of cashews is like a potato sack of fruit all plucked down to nothing. That's sad.\n\n",
+				"date_published": "2016-04-03T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/04/03/the-sad-truth-about-cashews.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/04/01/less-pee-on-the-toilet.html",
+				"title": "Less pee on the toilet seat",
+				"content_html": "<p>I’ve noticed that toilet seats in public bathrooms have less pee on them than they used to. I guess old people sit down when they pee, and millennials have good aim.</p>\n",
+				"content_text": "I’ve noticed that toilet seats in public bathrooms have less pee on them than they used to. I guess old people sit down when they pee, and millennials have good aim.\n\n",
+				"date_published": "2016-04-01T13:10:00-08:00",
+				"url": "https://mildlyclever.com/2016/04/01/less-pee-on-the-toilet.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/04/01/toes-dont-have-names.html",
+				"title": "Toes don't have names",
+				"content_html": "<p>My kid asked me what the name of each toe was. You know, like the finger names. The big toe I knew for sure, and maybe the pinky toe? But the rest of the toes have no name. That’s sad.</p>\n",
+				"content_text": "My kid asked me what the name of each toe was. You know, like the finger names. The big toe I knew for sure, and maybe the pinky toe? But the rest of the toes have no name. That’s sad.\n\n",
+				"date_published": "2016-04-01T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/04/01/toes-dont-have-names.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/03/29/i-can-take-your-fry.html",
+				"title": "I can take your fry without asking",
+				"content_html": "<p>If you get a big pile of fries, I am allowed to take one without asking. It’s a law in all 48 continental states. But don’t do it in France or they will whoop your ass. In Canada they cover them with gravy to thwart you.</p>\n",
+				"content_text": "If you get a big pile of fries, I am allowed to take one without asking. It’s a law in all 48 continental states. But don’t do it in France or they will whoop your ass. In Canada they cover them with gravy to thwart you.\n\n",
+				"date_published": "2016-03-29T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/03/29/i-can-take-your-fry.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/03/29/license-to-drink.html",
+				"title": "License to drink",
+				"content_html": "<p>When you turn 16, you should be able to get a drinking license <strong>or</strong> a drivers license. When you turn 21, they issue you a drunk driving license.</p>\n",
+				"content_text": "When you turn 16, you should be able to get a drinking license **or** a drivers license. When you turn 21, they issue you a drunk driving license.\n\n",
+				"date_published": "2016-03-29T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/03/29/license-to-drink.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/03/29/sleeping-baguette.html",
+				"title": "Sleeping baguette",
+				"content_html": "<p>Imagine a very large loaf of french bread that you could hollow out and snuggle into. It’s a sleeping baguette. You eat your way out in the morning.</p>\n",
+				"content_text": "Imagine a very large loaf of french bread that you could hollow out and snuggle into. It’s a sleeping baguette. You eat your way out in the morning.\n\n",
+				"date_published": "2016-03-29T13:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/03/29/sleeping-baguette.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/03/29/one-day-back-hair-will.html",
+				"title": "One day back hair will be cool",
+				"content_html": "<p>I have hair on my back. It’s a pain to shave, so I figure I will just wait until it becomes cool. I’m still waiting.</p>\n",
+				"content_text": "I have hair on my back. It’s a pain to shave, so I figure I will just wait until it becomes cool. I’m still waiting.\n\n",
+				"date_published": "2016-03-29T12:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/03/29/one-day-back-hair-will.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/03/29/you-cannot-hang-one-banana.html",
+				"title": "You cannot hang one banana",
+				"content_html": "<p>You can buy a little hook to hold a bunch of bananas. But it does not work so well when you have one banana. It’s a design flaw. You need to eat the last two in one go.</p>\n<p><img src=\"https://phatmann.micro.blog/uploads/2025/banana-hook.jpeg\" alt=\"\"></p>\n",
+				"content_text": "You can buy a little hook to hold a bunch of bananas. But it does not work so well when you have one banana. It’s a design flaw. You need to eat the last two in one go.\n\n![](https://phatmann.micro.blog/uploads/2025/banana-hook.jpeg)\n\n\n",
+				"date_published": "2016-03-29T12:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/03/29/you-cannot-hang-one-banana.html"
+			},
+			{
+				"id": "http://phatmann.micro.blog/2016/03/25/the-physics-of-cynics.html",
+				"title": "The physics of cynics",
+				"content_html": "<p>For every answer there is an equal and opposite re-answer. It’s the basic law of cynics.</p>\n",
+				"content_text": "For every answer there is an equal and opposite re-answer. It’s the basic law of cynics.\n\n",
+				"date_published": "2016-03-25T12:00:00-08:00",
+				"url": "https://mildlyclever.com/2016/03/25/the-physics-of-cynics.html"
+			}
+	]
+}
